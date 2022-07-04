@@ -1,6 +1,8 @@
 # Bewaesserungssystem
 
-Feuchtigkeitssensor soll ein paar mal checken ob die Erde feucht ist, und wenn nicht soll gegossen werden.
+Feuchtigkeitssensor soll checken ob die Erde feucht ist, und wenn nicht soll gegossen werden.
+
+Mit dynamischer Gießmenge: wenn sehr trocken soll zweimal gegossen werden.
 
 Das soll in einer Endlosschleife ca. alle 10 Stunden gemacht werden, damit sich keine Staunässe bildet.
 
