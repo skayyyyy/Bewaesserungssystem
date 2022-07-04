@@ -1,11 +1,8 @@
 # Bewaesserungssystem
 
-ABI: Informatik mdl. Prüfung - Präsentations-Projekt
-
-
 Feuchtigkeitssensor soll ein paar mal checken ob die Erde feucht ist, und wenn nicht soll gegossen werden.
 
-Das soll in einer Endlosschleife ca. alle x Stunden gemacht werden, damit sich keine Staunässe bildet.
+Das soll in einer Endlosschleife ca. alle 10 Stunden gemacht werden, damit sich keine Staunässe bildet.
 
 
 --------
@@ -19,5 +16,7 @@ Specs:
 <li> Transistor
 
 <li> Homengineer Wasserpumpe + dazu passender Schlauch
+
+<li> Widerstand xyz
   
 </ul>
